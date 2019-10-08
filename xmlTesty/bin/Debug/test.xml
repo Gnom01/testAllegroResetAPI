@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offer file_format="IOF" generated="2019-09-26 18:15:45" iaiext:currency="PLN" version="2.5" extensions="no" xmlns:iaiext="http://www.iai-shop.com/developers/iof/extensions.phtml">
+
+<products language="pol" xmlns:iaiext="http://www.iai-shop.com/developers/iof/extensions.phtml">
+
+<product id="26291" currency="PLN" code_producer="E396-13N /S3-12P" iaiext:site="2">
+
+<producer id="1287481550" name="BALADA"/>
+<category id="1214553884" xml:lang="pol" name="Obuwie Damskie/CZÓŁENKA DAMSKIE"/>
+<unit id="1" xml:lang="pol" name="para"/>
+<card url="https://www.hurt.czasnabuty.pl/product-pol-26291-KLASYCZNE-SZPILKI.html"/>
+
+<description>
+<name xml:lang="cze"><![CDATA[KLASICKÉ LODIČKY]]></name>
+<name xml:lang="pol"><![CDATA[KLASYCZNE SZPILKI]]></name>
+<name xml:lang="slo"><![CDATA[KLASICKÉ LODIČKY]]></name>
+
+<version name="odcienie niebieskiego" >
+<name xml:lang="cze"><![CDATA[odstíny modré]]></name>
+<name xml:lang="pol"><![CDATA[odcienie niebieskiego]]></name>
+<name xml:lang="slo"><![CDATA[odtiene modré]]></name>
+</version>
+
+<long_desc xml:lang="cze"><![CDATA[<!-- TABELA CZASNABUTY DAMSKIE CZ -->
+<table style="width: 100%; height: 160px;" border="1" frame="void" rules="rows" align="center">
+<tbody>
+<tr style="background-color: #050404;" align="center" valign="middle">
+<td style="height: 25px; width: 25%" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Velikost</span></td>
+<td style="height: 25px; width: 25%" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Dl. vložky</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>35</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">22,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>36</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">23 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>37</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>38</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>39</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">25 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>40</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>41</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;" colspan="2"><span style="font-size: 9pt;">*tato tabulka představuje přibližné hodnoty</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<br>
+<!-- KONIEC TABELA CZASNABUTY DAMSKIE CZ -->]]></long_desc>
+<long_desc xml:lang="pol"><![CDATA[<!-- TABELA CZASNABUTY DAMSKIE PL -->
+<table style="width: 100%; height: 160px;" border="1" frame="void" rules="rows" align="center">
+<tbody>
+<tr style="background-color: #050404;" align="center" valign="middle">
+<td style="height: 25px; width: 50%" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Rozmiary</span></td>
+<td style="height: 25px; width: 50%" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Dł. wkładki</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>35</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">22,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>36</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">23 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>37</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>38</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>39</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">25 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>40</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>41</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;" colspan="2"><span style="font-size: 9pt;">*niniejsza tabela przedstawia przybliżone wartości</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<br>
+<!-- KONIEC TABELA CZASNABUTY DAMSKIE PL -->]]></long_desc>
+<long_desc xml:lang="slo"><![CDATA[<!-- TABELA SHELOVET DAMSKIE SK -->
+<table style="width: 40%; height: 160px;" border="1" frame="void" rules="rows" align="center">
+<tbody>
+<tr style="background-color: #050404;" align="center" valign="middle">
+<td style="height: 25px; width: 50%;" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;"> Rozmery</span></td>
+<td style="height: 25px; width: 50%;" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Dl. vložky</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>35</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">22,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>36</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">23 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>37</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>38</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>39</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">25 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>40</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>41</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;" colspan="2"><span style="font-size: 9pt;">*táto tabuľka zobrazuje približné hodnoty.</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<!-- KONIEC TABELA SHELOVET DAMSKIE SK -->]]></long_desc>
+
+</description>
+
+<price gross="54.90" net="44.63" vat="23.0"/>
+<srp gross="0" net="0" vat="23.0"/>
+
+<images>
+<large>
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_2.jpg" date_changed="2018-03-22 08:43:32" hash="14933afbaa46f52f47139070b75e8afe" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_7.jpg" date_changed="2018-03-22 08:43:32" hash="552b0339685d2d9f4bd2ced84f000d33" iaiext:height="900" iaiext:width="598" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_3.jpg" date_changed="2018-03-22 08:43:32" hash="6201f452ae9695e52cd3920fdc73b465" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_4.jpg" date_changed="2018-03-22 08:43:32" hash="0b7ecdcca3eda346943b0e93cb3d3d6e" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_5.jpg" date_changed="2018-03-22 08:43:32" hash="6874b82967c899a736109643903a759d" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_6.jpg" date_changed="2018-03-22 08:43:32" hash="de40fff10b391ea7b211024cfad1495c" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_8.jpg" date_changed="2018-03-22 08:43:32" hash="82ce3b5fd5b3044da8afba81930487c2" iaiext:height="900" iaiext:width="598" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/1/9/26291_1.jpg" date_changed="2018-03-22 08:43:32" hash="45f499d39ee43cb7e6578b1e1ffd9dab" iaiext:height="900" iaiext:width="598" />
+</large>
+<icons><icon url="https://www.hurt.czasnabuty.pl/data/gfx/icons/large/1/9/26291.jpg" date_changed="2018-09-20 10:58:43" hash="a917e4e04cf61f4b8282dd68415487d9" iaiext:height="375" iaiext:width="375" />
+</icons>
+</images>
+
+<group id="50213">
+<group_by_parameter id="050ef565b4fad5b7faf128b67a873c71" name="Kolor">
+<product_value id="72450f419a1b3126d9fa19b47f98660e" name="odcienie niebieskiego"/>
+</group_by_parameter>
+</group>
+
+<parameters>
+<parameter id="1284898737" name="Kolor" xml:lang="pol" iaiext:priority="0">
+<value id="157" name="odcienie niebieskiego" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284903072" name="Rodzaj noska" xml:lang="pol" iaiext:priority="0">
+<value id="1284903855" name="pełny" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284903901" name="Obcas" xml:lang="pol" iaiext:priority="1">
+<value id="1284903969" name="11cm" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284904326" name="Stan" xml:lang="pol" iaiext:priority="2" iaiext:context_id="CONTEXT_STATE">
+<value id="1284904327" name="Nowy" xml:lang="pol" iaiext:priority="0" iaiext:context_id="CONTEXT_STATE_NEW"/></parameter>
+<parameter id="1284902196" name="Wysokość obcasa" xml:lang="pol" iaiext:priority="3">
+<value id="1284902198" name="powyżej 10cm" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284902194" name="Rodzaj obcasa" xml:lang="pol" iaiext:priority="4">
+<value id="15" name="szpilka" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284903082" name="Rodzaj zapięcia" xml:lang="pol" iaiext:priority="5">
+<value id="1284903967" name="wsuwane" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284903921" name="Wkładka" xml:lang="pol" iaiext:priority="6">
+<value id="1284903924" name="skóra ekologiczna" xml:lang="pol" iaiext:priority="0"/>
+<value id="1284904013" name="profilowana" xml:lang="pol" iaiext:priority="1"/></parameter>
+<parameter id="1284903944" name="Zapiętek" xml:lang="pol" iaiext:priority="7">
+<value id="1284903945" name="zabudowany" xml:lang="pol" iaiext:priority="0"/>
+<value id="1284903957" name="usztywniony" xml:lang="pol" iaiext:priority="1"/></parameter>
+<parameter id="1284903947" name="Podeszwa" xml:lang="pol" iaiext:priority="8">
+<value id="1284903954" name="gładka" xml:lang="pol" iaiext:priority="0"/>
+<value id="1284903950" name="z tworzywa sztucznego" xml:lang="pol" iaiext:priority="1"/></parameter>
+<parameter id="1284903925" name="Okazja" xml:lang="pol" iaiext:priority="9">
+<value id="1284903928" name="na uroczystość" xml:lang="pol" iaiext:priority="0"/>
+<value id="1284903926" name="na wieczór / impreza" xml:lang="pol" iaiext:priority="1"/></parameter>
+<parameter id="1284903937" name="Styl" xml:lang="pol" iaiext:priority="10">
+<value id="1284903939" name="elegancki" xml:lang="pol" iaiext:priority="0"/>
+<value id="1284903943" name="klasyczny" xml:lang="pol" iaiext:priority="1"/>
+<value id="1284903942" name="fashion" xml:lang="pol" iaiext:priority="2"/></parameter>
+<parameter id="1284903086" name="Materiał" xml:lang="pol" iaiext:priority="11">
+<value id="1284903912" name="lakierowana skóra ekologiczna" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284903859" name="Sezon" xml:lang="pol" iaiext:priority="12">
+<value id="1284903860" name="wiosna/lato" xml:lang="pol" iaiext:priority="0"/>
+<value id="1284903861" name="jesień/zima" xml:lang="pol" iaiext:priority="1"/></parameter>
+<parameter id="1284903877" name="Płeć" xml:lang="pol" iaiext:priority="13">
+<value id="1284904045" name="kobieta" xml:lang="pol" iaiext:priority="0"/></parameter>
+<parameter id="1284904418" name="Kategoria" xml:lang="pol" iaiext:priority="14">
+<value id="1284904419" name="OUTLET" xml:lang="pol" iaiext:priority="0"/></parameter>
+</parameters>
+
+		<sizes>
+			<size id="W"  code_producer="0000262911236"  code="26291-W"  weight="0" >
+			<stock id="1" quantity="2"/>
+			</size>
+			<size id="21"  code_producer="0000262910215"  code="26291-21"  weight="700" >
+			</size>
+			<size id="9"  code="26291-9"  weight="700" >
+			</size>
+			<size id="43"  code="26291-43"  weight="700" >
+			</size>
+			<size id="X"  code_producer="0000262911243"  code="26291-X"  weight="0" >
+			</size>
+			<size id="A"  code="26291-A"  weight="700" >
+			</size>
+			<size id="Y"  code_producer="0000262911250"  code="26291-Y"  weight="0" >
+			</size>
+			<size id="F"  code="26291-F"  weight="700" >
+			</size>
+			<size id="Z"  code_producer="0000262911267"  code="26291-Z"  weight="0" >
+			</size>
+			<size id="G"  code="26291-G"  weight="700" >
+			</size>
+			<size id="18"  code_producer="0000262910185"  code="26291-18"  weight="0" >
+			</size>
+			<size id="1"  code="26291-1"  weight="700" >
+			</size>
+			<size id="19"  code_producer="0000262910192"  code="26291-19"  weight="0" >
+			</size>
+			<size id="2"  code="26291-2"  weight="700" >
+			</size>
+			<size id="20"  code_producer="0000287991589"  code="26291-20"  weight="700" >
+			</size>
+		</sizes>
+</product>
+
+<product id="26772" currency="PLN" code_producer="HC207KH /  S3-124P" iaiext:site="2"><producer id="1395657985" name="HANER"/>
+<category id="1214553885" xml:lang="pol" name="Obuwie Damskie/BOTKI DAMSKIE"/>
+<unit id="1" xml:lang="pol" name="para"/>
+<card url="https://www.hurt.czasnabuty.pl/product-pol-26772-WORKERY.html"/>
+<description><name xml:lang="cze"><![CDATA[WORKERY]]></name>
+<name xml:lang="pol"><![CDATA[WORKERY]]></name>
+<name xml:lang="slo"><![CDATA[WORKERY]]></name>
+<version name="odcienie brązu i beżu" ><name xml:lang="cze"><![CDATA[odstíny hnědé a béžové]]></name>
+<name xml:lang="pol"><![CDATA[odcienie brązu i beżu]]></name>
+<name xml:lang="slo"><![CDATA[odtiene hnedé a béžové]]></name>
+</version>
+<long_desc xml:lang="cze"><![CDATA[<!-- TABELA CZASNABUTY DAMSKIE CZ -->
+<table style="width: 100%; height: 160px;" border="1" frame="void" rules="rows" align="center">
+<tbody>
+<tr style="background-color: #050404;" align="center" valign="middle">
+<td style="height: 25px; width: 25%;" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Velikost</span></td>
+<td style="height: 25px; width: 25%;" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Dl. vložky</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>35</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">22,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>36</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">23,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>37</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>38</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>39</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">25 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>40</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>41</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;" colspan="2"><span style="font-size: 9pt;">*tato tabulka představuje přibližné hodnoty</span></td>
+</tr>
+</tbody>
+</table>
+<p><br /> </p>
+<!-- KONIEC TABELA CZASNABUTY DAMSKIE CZ -->]]></long_desc>
+<long_desc xml:lang="pol"><![CDATA[<!-- TABELA CZASNABUTY DAMSKIE PL -->
+<table style="width: 100%; height: 160px;" border="1" frame="void" rules="rows" align="center">
+<tbody>
+<tr style="background-color: #050404;" align="center" valign="middle">
+<td style="height: 25px; width: 50%" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Rozmiary</span></td>
+<td style="height: 25px; width: 50%" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Dł. wkładki</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>35</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">22,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>36</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">23,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>37</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>38</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>39</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">25 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>40</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>41</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;" colspan="2"><span style="font-size: 9pt;">*niniejsza tabela przedstawia przybliżone wartości</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<br>
+<!-- KONIEC TABELA CZASNABUTY DAMSKIE PL -->]]></long_desc>
+<long_desc xml:lang="slo"><![CDATA[<!-- TABELA SHELOVET DAMSKIE SK -->
+<table style="width: 40%; height: 160px;" border="1" frame="void" rules="rows" align="center">
+<tbody>
+<tr style="background-color: #050404;" align="center" valign="middle">
+<td style="height: 25px; width: 50%;" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;"> Rozmery</span></td>
+<td style="height: 25px; width: 50%;" align="center" valign="middle"><span style="color: #ffffff; font-size: 9pt;">Dl. vložky</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>35</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">22,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>36</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">23,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>37</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>38</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">24,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>39</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">25 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>40</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;"><span style="font-size: 9pt;"><strong>41</strong></span></td>
+<td style="height: 25px; background-color: #f9f9f9;" align="center" valign="middle"><span style="font-size: 9pt;">26,5 cm</span></td>
+</tr>
+<tr style="background-color: #f4f4f4;">
+<td style="height: 25px; text-align: center; background-color: #f4f4f4;" colspan="2"><span style="font-size: 9pt;">*táto tabuľka zobrazuje približné hodnoty.</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<!-- KONIEC TABELA SHELOVET DAMSKIE SK -->]]></long_desc>
+</description>
+<price gross="54.90" net="44.63" vat="23.0"/>
+<srp gross="0" net="0" vat="23.0"/>
+<images><large><image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/2/7/26772_5.jpg" date_changed="2018-03-22 08:37:01" hash="e084ca598053010843982f09bbaf236b" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/2/7/26772_2.jpg" date_changed="2018-03-22 08:37:03" hash="9df64cd993f17eb4bdb6b6181041cc9c" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/2/7/26772_3.jpg" date_changed="2018-03-22 08:37:02" hash="b9e862793be9c11df9b676f3cdb0bbf3" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/2/7/26772_4.jpg" date_changed="2018-03-22 08:37:02" hash="b7045985b04ac69a88061c82815cb089" iaiext:height="800" iaiext:width="800" />
+<image url="https://www.hurt.czasnabuty.pl/data/gfx/pictures/large/2/7/26772_1.jpg" date_changed="2018-03-22 08:37:03" hash="600c0fe1acf4282a990bd1d8b00fe63a" iaiext:height="800" iaiext:width="800" />
+</large>
+<icons><icon url="https://www.hurt.czasnabuty.pl/data/gfx/icons/large/2/7/26772.jpg" date_changed="2018-10-15 10:35:22" hash="f5cbecaf5c2a4098f81dd652890ddb27" iaiext:height="375" iaiext:width="375" />
+</icons>
+</images>
+<group id="26772"><group_by_parameter id="050ef565b4fad5b7faf128b67a873c71" name="Kolor"><product_value id="b5c34109250c81a1e51a9817f7d493d7" name="odcienie brązu i beżu"/></group_by_parameter></group>
+<parameters><parameter id="1284903072" name="Rodzaj noska" xml:lang="pol" iaiext:priority="0"><value id="1284903855" name="pełny" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903901" name="Obcas" xml:lang="pol" iaiext:priority="1"><value id="1284903980" name="4cm" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284902196" name="Wysokość obcasa" xml:lang="pol" iaiext:priority="2"><value id="1284902200" name="3cm - 5cm" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284902194" name="Rodzaj obcasa" xml:lang="pol" iaiext:priority="3"><value id="22" name="płaski" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903930" name="Szerokość cholewki" xml:lang="pol" iaiext:priority="4"><value id="1284904181" name="32-34cm" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903929" name="Wysokość cholewki" xml:lang="pol" iaiext:priority="5"><value id="1284904020" name="14-15cm" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903082" name="Rodzaj zapięcia" xml:lang="pol" iaiext:priority="6"><value id="1284903967" name="wsuwane" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903915" name="Ocieplenie" xml:lang="pol" iaiext:priority="7"><value id="1284903919" name="tekstylne" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903921" name="Wkładka" xml:lang="pol" iaiext:priority="8"><value id="1284904010" name="tekstylna" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903944" name="Zapiętek" xml:lang="pol" iaiext:priority="9"><value id="1284903945" name="zabudowany" xml:lang="pol" iaiext:priority="0"/><value id="1284903957" name="usztywniony" xml:lang="pol" iaiext:priority="1"/></parameter><parameter id="1284903947" name="Podeszwa" xml:lang="pol" iaiext:priority="10"><value id="1284903950" name="z tworzywa sztucznego" xml:lang="pol" iaiext:priority="0"/><value id="1284903955" name="z bieżnikiem" xml:lang="pol" iaiext:priority="1"/></parameter><parameter id="1284903925" name="Okazja" xml:lang="pol" iaiext:priority="11"><value id="1284903927" name="na co dzień" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903937" name="Styl" xml:lang="pol" iaiext:priority="12"><value id="1284903940" name="casualowy" xml:lang="pol" iaiext:priority="0"/><value id="1284903941" name="rockowy" xml:lang="pol" iaiext:priority="1"/></parameter><parameter id="1284903086" name="Materiał" xml:lang="pol" iaiext:priority="13"><value id="1284903093" name="skóra ekologiczna" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903859" name="Sezon" xml:lang="pol" iaiext:priority="14"><value id="1284903861" name="jesień/zima" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284898737" name="Kolor" xml:lang="pol" iaiext:priority="17"><value id="1284903795" name="odcienie brązu i beżu" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903877" name="Płeć" xml:lang="pol" iaiext:priority="18"><value id="1284904045" name="kobieta" xml:lang="pol" iaiext:priority="0"/></parameter><parameter id="1284903951" name="Szczegół" xml:lang="pol" iaiext:priority="19"><value id="1284904052" name="ozdobny suwak" xml:lang="pol" iaiext:priority="0"/><value id="1284904153" name="ozdobna sprzączka" xml:lang="pol" iaiext:priority="1"/></parameter><parameter id="1284904326" name="Stan" xml:lang="pol" iaiext:priority="20" iaiext:context_id="CONTEXT_STATE"><value id="1284904327" name="Nowy" xml:lang="pol" iaiext:priority="0" iaiext:context_id="CONTEXT_STATE_NEW"/></parameter></parameters>		<sizes>
+			<size id="W"  code_producer="0000267721236"  code="26772-W"  weight="1000" >
+			<stock id="1" quantity="1"/>
+			</size>
+			<size id="X"  code_producer="0000267721243"  code="26772-X"  weight="1000" >
+			<stock id="1" quantity="1"/>
+			</size>
+			<size id="21"  code_producer="0000288186472"  code="26772-21"  weight="1000" >
+			</size>
+			<size id="Y"  code_producer="0000267721250"  code="26772-Y"  weight="1000" >
+			</size>
+			<size id="Z"  code_producer="0000267721267"  code="26772-Z"  weight="1000" >
+			</size>
+			<size id="18"  code_producer="0000267720185"  code="26772-18"  weight="1000" >
+			</size>
+			<size id="19"  code_producer="0000267720192"  code="26772-19"  weight="1000" >
+			</size>
+		</sizes>
+</product>
+</products>
+
+</offer>
